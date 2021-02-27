@@ -1,0 +1,33 @@
+body{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: aliceblue;
+}
+
+table{
+  /* width: 100%; */
+  margin: 0 50px;
+  display: flex;
+  justify-content: center;
+}
+
+th, td {
+  border: 1px solid #607d8b;
+}
+
+td img{
+  display: flex;
+  margin: 0 auto;
+}
+
+input select{
+  border: 1px solid #607d8b;
+  border-radius: 3px;
+}
+
+.search{
+  margin: 20px;
+}
+
+

@@ -1,0 +1,220 @@
+{
+    "data": {
+        "products_list": {
+            "__typename": "products_qry_type",
+            "count": 136,
+            "products": [
+                {
+                    "identifier": "d6408929-09b5-4361-9fe5-2755358c3bfd",
+                    "labels": [
+                        "Product"
+                    ],
+                    "lob": {
+                        "lob_long": "Leota Fashion"
+                    },
+                    "product_identifiers": [
+                        {
+                            "item": "UPC",
+                            "value": "843544199546"
+                        },
+                        {
+                            "item": "SKU",
+                            "value": "30272PKBK-1X"
+                        }
+                    ],
+                    "product_locale": [
+                        {
+                            "item": "full_description",
+                            "value": "JULIANA, PKBK, 1X"
+                        },
+                        {
+                            "item": "item_description",
+                            "value": "JULIANA, PKBK, 1X"
+                        }
+                    ],
+                    "images": [
+                        "https://dad8u7di8epa7.cloudfront.net/resource/product_type/gir/30272PKBK-1X?catalog_thumbnail"
+                    ],
+                    "styles": []
+                },
+                {
+                    "identifier": "c50b5b69-3787-4a6e-9e8e-1ce33ef70847",
+                    "labels": [
+                        "Product"
+                    ],
+                    "lob": {
+                        "lob_long": "Leota Fashion"
+                    },
+                    "product_identifiers": [
+                        {
+                            "item": "UPC",
+                            "value": "843544199645"
+                        },
+                        {
+                            "item": "SKU",
+                            "value": "20087BLSC-S"
+                        }
+                    ],
+                    "product_locale": [
+                        {
+                            "item": "full_description",
+                            "value": "ARIA, BLSC, S"
+                        },
+                        {
+                            "item": "item_description",
+                            "value": "ARIA, BLSC, S"
+                        }
+                    ],
+                    "images": [
+                        "https://dad8u7di8epa7.cloudfront.net/resource/product_type/gir/20087BLSC-S?catalog_thumbnail"
+                    ],
+                    "styles": []
+                },
+                {
+                    "identifier": "e819f704-53a0-4b22-858e-7710217e17a8",
+                    "labels": [
+                        "Product"
+                    ],
+                    "lob": {
+                        "lob_long": "Leota Fashion"
+                    },
+                    "product_identifiers": [
+                        {
+                            "item": "UPC",
+                            "value": "843544201799"
+                        },
+                        {
+                            "item": "SKU",
+                            "value": "20050PBWR-S"
+                        }
+                    ],
+                    "product_locale": [
+                        {
+                            "item": "full_description",
+                            "value": "Long Sleeve Perfect Wrap Dress, PBWR, S"
+                        },
+                        {
+                            "item": "item_description",
+                            "value": "Long Sleeve Perfect Wrap Dress, PBWR, S"
+                        }
+                    ],
+                    "images": [
+                        "https://dad8u7di8epa7.cloudfront.net/resource/product_type/gir/20050PBWR-S?catalog_thumbnail"
+                    ],
+                    "styles": []
+                },
+                {
+                    "identifier": "3b97ca19-9524-497e-995f-4a598a8987da",
+                    "labels": [
+                        "Product"
+                    ],
+                    "lob": {
+                        "lob_long": "Leota Fashion"
+                    },
+                    "product_identifiers": [
+                        {
+                            "item": "UPC",
+                            "value": "843544199591"
+                        },
+                        {
+                            "item": "SKU",
+                            "value": "20087BLSC-XXS"
+                        }
+                    ],
+                    "product_locale": [
+                        {
+                            "item": "full_description",
+                            "value": "ARIA, BLSC, XXS"
+                        },
+                        {
+                            "item": "item_description",
+                            "value": "ARIA, BLSC, XXS"
+                        }
+                    ],
+                    "images": [
+                        "https://dad8u7di8epa7.cloudfront.net/resource/product_type/gir/20087BLSC-XXS?catalog_thumbnail"
+                    ],
+                    "styles": []
+                },
+                {
+                    "identifier": "09246e72-2dd4-4de0-904a-e6e3cfc7081d",
+                    "labels": [
+                        "Product"
+                    ],
+                    "lob": {
+                        "lob_long": "Leota Fashion"
+                    },
+                    "product_identifiers": [
+                        {
+                            "item": "UPC",
+                            "value": "843544201874"
+                        },
+                        {
+                            "item": "SKU",
+                            "value": "20100RSPB-XL"
+                        }
+                    ],
+                    "product_locale": [
+                        {
+                            "item": "full_description",
+                            "value": "SWEETHEART A-LINE, RSPB, XL"
+                        },
+                        {
+                            "item": "item_description",
+                            "value": "SWEETHEART A-LINE, RSPB, XL"
+                        }
+                    ],
+                    "images": [
+                        "https://dad8u7di8epa7.cloudfront.net/resource/product_type/gir/20100RSPB-XL?catalog_thumbnail"
+                    ],
+                    "styles": []
+                }
+            ],
+            "metadata": [
+                {
+                    "lob": "leota",
+                    "groups_metadata": [
+                        {
+                            "group": "Identifiers",
+                            "items": [
+                                {
+                                    "item": "UPC",
+                                    "display": "UPC",
+                                    "tooltip": "Universal Product Code",
+                                    "datatype": "String",
+                                    "maxlength": 12
+                                },
+                                {
+                                    "item": "SKU",
+                                    "display": "SKU",
+                                    "tooltip": "Stock-Keeping Unit",
+                                    "datatype": "String",
+                                    "maxlength": 30
+                                }
+                            ]
+                        },
+                        {
+                            "group": "Locale",
+                            "items": [
+                                {
+                                    "item": "full_description",
+                                    "display": "Full Description",
+                                    "tooltip": "The product's long description",
+                                    "datatype": "String",
+                                    "maxlength": 50
+                                },
+                                {
+                                    "item": "item_description",
+                                    "display": "Item Description",
+                                    "tooltip": "The product's short description",
+                                    "datatype": "String",
+                                    "maxlength": 30
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
